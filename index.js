@@ -1,4 +1,4 @@
-var source = "site_impulso";
+var source = "blog_impulso";
   var impulser_visit = "impulser_blog_visit";
   var ahoy_url = "https://staging.api.impulso.network";
 
